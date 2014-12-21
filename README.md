@@ -1,6 +1,6 @@
 GettingandCleaningData_Project
 ==============================
-Course project for "Getting and Cleaning Data" clourse; part of data science series of courses
+Course project for "Getting and Cleaning Data" course; part of data science series of courses
 
 All code is in one file: "run_analysis.R"
 Output of steps 1-4 is in my_data
